@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Rotating ZTM',
+    pageLink: './Art/Habbski/index.html',
+    imageLink: './Art/Habbski/rotatingZTM.gif',
+    author: 'Henrik',
+    githubLink: 'https://github.com/habbski'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
